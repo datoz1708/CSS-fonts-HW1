@@ -1,0 +1,12 @@
+@font-face {
+    font-family: old-standart;
+    src: url(fonts/OldStandardTT-Regular.ttf);
+}
+
+h1 {
+    font-family: "old-standart";
+}
+
+p {
+    font-family: "old-standart";
+}
